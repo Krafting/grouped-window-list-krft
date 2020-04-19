@@ -13,7 +13,7 @@ Will probably break, don't know yet
 
 # How to install ? 
  
- ```git clone https://github.com/Krafting/grouped-window-list-krafting.net.git```
+ ```git clone https://github.com/Krafting/grouped-window-list-krft.git```
  
  then move the ```grouped-window-list@krafting.net``` folder to ```/usr/share/cinnamon/applets```
  
