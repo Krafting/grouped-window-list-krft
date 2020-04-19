@@ -15,11 +15,9 @@ Will probably break, don't know yet
  
  ```git clone https://github.com/Krafting/grouped-window-list-krafting.net.git```
  
- then rename it to grouped-window-list@krafting.net
+ then move the ```grouped-window-list@krafting.net``` folder to ```/usr/share/cinnamon/applets```
  
- then move the folder to ```/usr/share/cinnamon/applets```
- 
- then, profit
+ step 3, profit
  
  # Contributing ?
  yes please, help me
