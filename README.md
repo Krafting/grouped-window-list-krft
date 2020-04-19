@@ -1,3 +1,5 @@
+*1 hour later, I already moved the repo on gitlab, ahahah, no that's not funny. take [this link](https://gitlab.com/Krafting/grouped-window-list-krft/)*
+
 *Forked from [here](https://github.com/linuxmint/cinnamon/tree/4.4-maintenance/files/usr/share/cinnamon/applets/grouped-window-list%40cinnamon.org)*
 
 # grouped-window-list@krafting.net
